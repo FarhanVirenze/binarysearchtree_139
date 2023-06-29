@@ -23,7 +23,18 @@ public:
 
 class BinaryTree
 {
+public:
+	Node* ROOT;
 
+	BinaryTree()
+	{
+		ROOT = NULL; // Inializing ROOT to null
+	}
+
+	void insert(string element) // Insert a node in the binary search tree
+	{
+
+	}
 };
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
