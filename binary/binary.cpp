@@ -87,6 +87,11 @@ public:
 			inorder(ptr->rightchild);
 		}
 	}
+
+	void preorder(Node* ptr)
+	{
+
+	}
 };
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
