@@ -102,6 +102,11 @@ public:
 			preorder(ptr->rightchild);
 		}
 	}
+
+	void postorder(Node* ptr)
+	{
+
+	}
 };
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
